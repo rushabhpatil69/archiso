@@ -1,0 +1,5 @@
+root:x:0:root
+adm:x:4:rushabhp
+wheel:x:10:rushabhp
+uucp:x:14:rushabhp
+rushabhp:x:1000:
